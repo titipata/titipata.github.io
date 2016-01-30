@@ -19,6 +19,8 @@ nav:
     href:           "//titipata.github.io/"
   - name:           "about"
     href:           "//titipata.github.io/about"
+  - name:           "blog"
+    href:           "//titipata.github.io/blog"
 
 # Sass
 sass:

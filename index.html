@@ -16,17 +16,3 @@ layout: default
   <a href="https://twitter.com/titipat_a"><i class="fa fa-twitter"></i> Twitter</a>
   </p>
 </header>
-<div class="content list">
-
-{% for post in site.posts %}
-  <div class="list-item">
-    <h2 class="list-post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </h2>
-    <div class="list-post-date">
-      <time>{{ post.date | date_to_string }}</time>
-    </div>
-  </div>
-{% endfor %}
-
-</div>
