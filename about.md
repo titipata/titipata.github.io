@@ -1,0 +1,21 @@
+---
+title: About
+permalink: /about/
+---
+
+
+My name is Titipat Achakulvisut, a PhD student in Department of Biomedical Engineering at Northwestern University.
+I am currently working at the [Bayesian Behavior lab](http://klab.smpp.northwestern.edu/wiki/index.php5/Main_Page)
+with prof. Konrad Kording at Rehabilitation Institute of Chicago.
+
+
+I collaborate with [Daniel Acuna](http://www.scienceofscience.org/) in Science of Science related project.
+You can also find out project more on my Github [@titipata](https://github.com/titipata).
+
+I run a blog post in Thai with [@bluenex](https://github.com/bluenex) named [tupleblog](http://tupleblog.github.io/)
+where we post geeky, programming stuff (and whatever we like).
+
+Here are some software that I use
+> **Programming** Python (`numpy`, `pandas`, `scikit-learn`, `Django`), Matlab, R, Mathematica <br>
+> **Editor** Atom, Emacs <br>
+> **Others** LaTeX
