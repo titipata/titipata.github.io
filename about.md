@@ -19,7 +19,7 @@ I collaborate with [Daniel Acuna](http://www.scienceofscience.org/) in Science o
 You can also find out project more on my Github [@titipata](https://github.com/titipata).
 
 
-Here are some of my projects with [daniel-acuna](https://github.com/daniel-acuna) and [evadyer](https://github.com/evadyer)
+Here are some of my projects with [@daniel-acuna](https://github.com/daniel-acuna) and [@evadyer](https://github.com/evadyer)
 > **Recommendation for conference and publication** [scholarfy.net](http://www.scholarfy.net/), [pubmed.scholarfy.net](http://pubmed.scholarfy.net/) <br>
 > **Data visualization** [map.scienceofscience.org](http://map.scienceofscience.org/) <br>
 > **Computational Neuroscience** [NERDS](https://github.com/KordingLab/nerds)
@@ -29,8 +29,18 @@ I also run a blog post in Thai with [@bluenex](https://github.com/bluenex) named
 where we post geeky, programming stuff (and whatever we like).
 
 
-Here are some software that I use
-> **Programming** Python (`numpy`, `pandas`, `scikit-learn`, `Django`), Matlab, R, Mathematica <br>
+Here are list of software that I generally use
+> **Programming** Python (`numpy`, `pandas`, `scikit-learn`, `Django`), PySpark, Matlab, R, Mathematica, etc. <br>
 > **Editor** Atom, Emacs <br>
 > **Others** LaTeX <br>
 > **Cloud Computing** Amazon AWS, Microsoft Azure, Google Cloud Computing
+
+<hr>
+
+**Education**
+<ul>
+  <li><i>2015-Present</i> Ph.D. Student, Biomedical Engineering, Northwestern University</li>
+  <li><i>2015</i> M.S. in Biomedical Engineering, Northwestern University</li>
+  <li><i>2012</i> B.S. in Electrical Engineering, Chulalongkorn University, Thailand</li>
+  <li><i>2008</i> Suankularb Wittayalai School, Thailand (oldest public school in Thailand) </li>
+</ul>

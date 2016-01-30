@@ -87,6 +87,8 @@ dd {
 }
 
 ul {
+  font-family: 'Ubuntu Mono';
+  font-size: 0.8rem;
   list-style: inside circle;
   padding-left: 0;
 
@@ -170,7 +172,7 @@ pre {
 
 code {
   padding: .25em .5em;
-  font-size: 85%;
+  font-size: 80%;
   color: #bf616a;
   background-color: #f9f9f9;
   border-radius: 3px;
@@ -207,7 +209,7 @@ pre code {
 }
 
 .gist .gist-file {
-  font-family: Menlo, Monaco, "Courier New", monospace !important;
+  font-family: Monaco, "Courier New", monospace !important;
 }
 
 .gist .markdown-body {
