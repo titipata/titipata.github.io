@@ -9,9 +9,6 @@ layout: default
   </nav>
 </header>
 <div class="content post">
-  <h3 class="post-title">{{ page.title }}</h3>
-  <div class="post-date">
-    <time>{{ page.date | date_to_string }}</time>
-  </div>
+  <strong><p>{{ page.title }}</strong>, {{ page.date | date_to_string }}</p>
   {{ content }}
 </div>
