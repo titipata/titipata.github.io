@@ -4,10 +4,15 @@ permalink: /about/
 ---
 
 
+<figure><center>
+  <img width="300" src="/images/titipata.jpg" data-action="zoom"/>
+</center></figure>
+
+
 My name is Titipat Achakulvisut, a PhD student in Department of Biomedical Engineering at Northwestern University.
 I am currently working at the [Bayesian Behavior lab](http://klab.smpp.northwestern.edu/wiki/index.php5/Main_Page)
-with prof. Konrad Kording at Rehabilitation Institute of Chicago.
-
+with prof. Konrad Kording at Rehabilitation Institute of Chicago. See more info about me in
+[cv](https://github.com/titipata/titipat_cv/raw/master/example/Titipat_CV.pdf)
 
 I collaborate with [Daniel Acuna](http://www.scienceofscience.org/) in Science of Science related project.
 You can also find out project more on my Github [@titipata](https://github.com/titipata).
@@ -19,3 +24,8 @@ Here are some software that I use
 > **Programming** Python (`numpy`, `pandas`, `scikit-learn`, `Django`), Matlab, R, Mathematica <br>
 > **Editor** Atom, Emacs <br>
 > **Others** LaTeX
+
+Also see some of my projects here
+> **Recommendation for conference and publication** [scholarfy.net](http://www.scholarfy.net/), [pubmed.scholarfy.net](http://pubmed.scholarfy.net/)
+>
+>

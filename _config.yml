@@ -15,7 +15,9 @@ markdown:           rdiscount
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "home"
+    href:           "//titipata.github.io/"
+  - name:           "about"
     href:           "//titipata.github.io/about"
 
 # Sass
