@@ -5,7 +5,7 @@ permalink: /about/
 
 
 <figure><center>
-  <img width="300" src="/images/titipata.jpg" data-action="zoom"/>
+  <img width="300" src="/images/titipata.jpg"/>
 </center></figure>
 
 
