@@ -6,6 +6,7 @@
 name:               "titipat achakulvisut"
 
 # URL
+url:                http://titipata.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
