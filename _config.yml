@@ -4,6 +4,9 @@
 
 # Basic
 name:               "titipat achakulvisut"
+title:              "titipat personal page"
+description:        "minimal personal page for titipat achakulvisut"
+
 
 # URL
 url:                http://titipata.github.io
