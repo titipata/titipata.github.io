@@ -20,11 +20,11 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "home"
-    href:           "//titipata.github.io/"
+    href:           "/"
   - name:           "about"
-    href:           "//titipata.github.io/about"
+    href:           "/about"
   - name:           "blog"
-    href:           "//titipata.github.io/blog"
+    href:           "/blog"
 
 # Sass
 sass:
