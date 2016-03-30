@@ -49,7 +49,7 @@ Now, we have to just find the right Python wrapper for CoreNLP. There are a bunc
 and [more](http://stanfordnlp.github.io/CoreNLP/other-languages.html).
 
 In my opinion, [smilli/py-corenlp](https://github.com/smilli/py-corenlp) is one of the easiest
-Python library to use. An example usage is as below:
+Python library to use. You can install using `pip install pycorenlp`. An example usage is as below:
 
 ```python
 from pycorenlp import StanfordCoreNLP
@@ -64,3 +64,16 @@ output = nlp.annotate('Department of Radiation Oncology, Stanford University, Av
 where we can find all support annotators from this [page](http://stanfordnlp.github.io/CoreNLP/simple.html) or from this [page](http://stanfordnlp.github.io/CoreNLP/annotators.html). We can state multiple annotators by just using commas e.g. `ner,openie`. For output format, it can be `json`, `xml`, `text` or `serialized` (see more from [CoreNLP server page](http://stanfordnlp.github.io/CoreNLP/corenlp-server.html)).
 
 So yeah, at the end, it's not that hard to run Stanford CoreNLP server and annotate some text that we have!
+
+
+### Install on Mac OSX
+
+I did similar to what I did on Amazon EC2. However, the process is less complicated.
+I just have to download the file from [CoreNLP page](http://stanfordnlp.github.io/CoreNLP/).
+Then running the same way as on Amazon EC2 Ubuntu.
+
+```bash
+screen # start screen
+export CLASSPATH="`find . -name '*.jar'`"
+java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer [port?] # run server
+```
