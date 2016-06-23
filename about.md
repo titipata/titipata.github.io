@@ -9,9 +9,9 @@ permalink: /about/
 </center></figure>
 
 
-My name is Titipat Achakulvisut, a PhD student in the Department of Biomedical Engineering at Northwestern University.
-I am currently working in the [Bayesian Behavior lab](http://klab.smpp.northwestern.edu/wiki/index.php5/Main_Page)
-with Prof. Konrad Kording at the Rehabilitation Institute of Chicago. See more info about me in my
+My name is Titipat Achakulvisut, a PhD student in the Department of Biomedical
+Engineering at Northwestern University working at [Konrad Kording's lab](http://kordinglab.com/)
+at the Rehabilitation Institute of Chicago. You can find out more info about me in my
 [cv](http://titipata.github.io/images/pdf/Titipat_CV.pdf)
 
 
@@ -25,8 +25,9 @@ Here are some of my projects with [@daniel-acuna](https://github.com/daniel-acun
 > **Computational Neuroscience** [NERDS](https://github.com/KordingLab/nerds)
 
 
-I also run a blog, written in Thai, with [@bluenex](https://github.com/bluenex) named [tupleblog](http://tupleblog.github.io/)
-where we post geeky, programming stuff (and whatever we like).
+I also run a blog, written in Thai (and few English), with [@bluenex](https://github.com/bluenex)
+named [tupleblog](http://tupleblog.github.io/)
+where we post geeky, programming related articles.
 
 
 Here is a list of software that I generally use
