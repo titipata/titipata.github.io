@@ -10,9 +10,8 @@ permalink: /about/
 
 
 My name is Titipat Achakulvisut, a PhD student in the Department of Biomedical
-Engineering at Northwestern University working at [Konrad Kording's lab](http://kordinglab.com/)
-at the Rehabilitation Institute of Chicago. You can find out more info about me in my
-[CV](http://titipata.github.io/images/pdf/Titipat_CV.pdf)
+Engineering at Northwestern University working with [Konrad Kording](http://kordinglab.com/).
+You can find out more info about me in my [CV](http://titipata.github.io/images/pdf/Titipat_CV.pdf)
 
 
 I collaborate with [Daniel Acuna](http://www.scienceofscience.org/) in a relatively new field known as Science of Science.
@@ -21,7 +20,7 @@ You can also find out about other projects on my Github [@titipata](https://gith
 
 Here are some of my projects with [@daniel-acuna](https://github.com/daniel-acuna) and [@evadyer](https://github.com/evadyer)
 
-> **Pubmed Parser** xml parser for Pubmed OA and MEDLINE dataset,
+> **Pubmed Parser** XML parser for Pubmed OA and MEDLINE dataset,
 see this [link](https://github.com/titipata/pubmed_parser)
 > **Recommendation of posters and PubMed articles based on preferences** see
 [scholarfy.net](http://www.scholarfy.net/), [pubmed.scholarfy.net](http://pubmed.scholarfy.net/) <br>
@@ -44,10 +43,17 @@ I also run a blog, written in Thai (with few English blogs), with
 [@bluenex](https://github.com/bluenex) named [tupleblog](http://tupleblog.github.io/)
 where we post geeky, programming related articles.
 
+**Stack Overflow**
+
+Apart from my blog, I also answer Python and PySpark questions
+on [Stack Overflow](http://stackoverflow.com/users/3626961/titipata).
+
 <hr>
 
 **Education**
+
 <ul>
+  <li><i>Spring 2017</i> Internship, Allen Institute for Artificial Intelligence</li>
   <li><i>2015-Present</i> Ph.D. Student, Biomedical Engineering, Northwestern University</li>
   <li><i>2015</i> M.S. in Biomedical Engineering, Northwestern University</li>
   <li><i>2012</i> B.S. in Electrical Engineering, Chulalongkorn University, Thailand</li>
