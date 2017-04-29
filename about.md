@@ -59,3 +59,11 @@ on [Stack Overflow](http://stackoverflow.com/users/3626961/titipata).
   <li><i>2012</i> B.S. in Electrical Engineering, Chulalongkorn University, Thailand</li>
   <li><i>2008</i> Suankularb Wittayalai School, Thailand (oldest public school in Thailand) </li>
 </ul>
+
+<hr>
+
+**Music**
+
+my spotify playlist
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A12126213435%3Aplaylist%3A3icwK1ctAWJAIGLjl5QcVl" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
