@@ -9,8 +9,8 @@ permalink: /about/
 </center></figure>
 
 
-My name is Titipat Achakulvisut, a PhD student in the Department of Biomedical
-Engineering at Northwestern University working with [Konrad Kording](http://kordinglab.com/).
+My name is Titipat Achakulvisut, a PhD student in the Department of
+Bioengineering at University of Pennsylvania working with [Konrad Kording](http://kordinglab.com/).
 You can find out more info about me in my [CV](http://titipata.github.io/images/pdf/Titipat_CV.pdf)
 
 
@@ -30,7 +30,7 @@ see this [link](https://github.com/titipata/pubmed_parser)
 
 Here is a list of softwares that I generally use
 
-> **Programming** Python (`numpy`, `pandas`, `scikit-learn`, `Django`), PySpark, Matlab, R, Mathematica, etc. <br>
+> **Programming** Python, PySpark, Matlab, R, Mathematica, etc. <br>
 > **Editor** Atom, Emacs <br>
 > **Others** LaTeX <br>
 > **Cloud Computing** Amazon AWS, Microsoft Azure, Google Cloud Computing
@@ -53,8 +53,9 @@ on [Stack Overflow](http://stackoverflow.com/users/3626961/titipata).
 **Education**
 
 <ul>
+  <li><i>2017-Present</i> Ph.D. Student, Bioengineering, University of Pennsylvania</li>
   <li><i>Spring 2017</i> Internship, Allen Institute for Artificial Intelligence</li>
-  <li><i>2015-Present</i> Ph.D. Student, Biomedical Engineering, Northwestern University</li>
+  <li><i>2017</i> Ph.D. Student, Biomedical Engineering, Northwestern University</li>
   <li><i>2015</i> M.S. in Biomedical Engineering, Northwestern University</li>
   <li><i>2012</i> B.S. in Electrical Engineering, Chulalongkorn University, Thailand</li>
   <li><i>2008</i> Suankularb Wittayalai School, Thailand (oldest public school in Thailand) </li>
