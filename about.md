@@ -43,10 +43,15 @@ I also run a blog, written in Thai (with few English blogs), with
 [@bluenex](https://github.com/bluenex) named [tupleblog](http://tupleblog.github.io/)
 where we post geeky, programming related articles.
 
-**Stack Overflow**
+**Stack Overflow and Open Source**
 
 Apart from my blog, I also answer Python and PySpark questions
-on [Stack Overflow](http://stackoverflow.com/users/3626961/titipata).
+on [Stack Overflow](http://stackoverflow.com/users/3626961/titipata) and
+contribute to open-source projects including [glm-tools/pyglmnet](https://github.com/glm-tools/pyglmnet), [PhABC/neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools),
+[rkcosmos/deepcut](https://github.com/rkcosmos/deepcut),
+[MrChrisJohnson/implicit-mf](https://github.com/MrChrisJohnson/implicit-mf),
+[benfred/implicit](https://github.com/benfred/implicit), etc.
+
 
 <hr>
 
