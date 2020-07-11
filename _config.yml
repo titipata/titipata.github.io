@@ -10,7 +10,7 @@ description:        "minimal personal page for bryan medina. feel free to check 
 
 # URL
 url:                http://bjmedina.github.io
-baseurl:
+baseurl:             http://bjmedina.github.io
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
