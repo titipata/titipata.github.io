@@ -10,7 +10,7 @@ description:        "minimal personal page for titipat achakulvisut. feel free t
 
 # URL
 url:                http://titipata.github.io
-baseurl:
+baseurl:            http://titipata.github.io
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
