@@ -6,8 +6,8 @@ Dear friends and colleages,
 
 I would like to invite you to my doctoral defense on June 8, 2021 10.30 - 11.30 AM (EST).
 The meeting will be on Zoom. You can see the Zoom link and the passcode below.
-I put the password in text just in case of Zoom bombing, just put a sequence of number for access of ask me directly.
-I also put a link where you can add an event directly to your Google Calendar.
+I put the password in text just in case of Zoom bombing, just put a sequence of number for access.
+I also put a link where you can add the event directly to Google Calendar.
 
 Really looking forward to see you all!
 
