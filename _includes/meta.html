@@ -3,8 +3,32 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-    <!-- Facebook image -->
+    <!-- Open Graph -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ site.url }}">
 
+    {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:site_name" content="{{ page.title }}">
+    {% else %}
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    {% endif %}
+
+    {% if page.image %}
+    <meta property="og:image" content="{{ site.url }}/images/{{ page.image }}">
+    {% else %}
+    <meta property="og:image" content="{{ site.url }}/images/fb-image.jpg">
+    {% endif %}
+
+    {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}" />
+    {% else %}
+    <meta property="og:description" content="{{ site.description }}" />
+    {% endif %}
+
+    <!-- Facebook image -->
     {% if page.description %}
     <meta name="description" content="{{ page.description | strip_html }}" />
     <meta property="og:description" content="{{ page.description | strip_html }}" />
@@ -29,38 +53,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="{{ site.url }}/ai-builders/images/fb-image.png">
 
-    <!-- Open Graph -->
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="{{ site.baseurl }}">
-    <meta property="og:site_name" content="{{ site.title }}">
-
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ site.baseurl }}/images/favicon.ico">
     <link rel="shortcut icon" href="{{ site.baseurl }}/images/favicon-32x32.png">
     <link rel="apple-touch-icon-precomposed" sizes="180x180" href="{{ site.baseurl }}/images/apple-touch-icon.png">
-
-    <!-- open graph -->
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="{{ site.url }}">
-
-    {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:site_name" content="{{ page.title }}">
-    {% else %}
-    <meta property="og:title" content="{{ site.title }}">
-    <meta property="og:site_name" content="{{ site.title }}">
-    {% endif %}
-
-    {% if page.image %}
-    <meta property="og:image" content="{{ site.url }}/images/{{ page.image }}">
-    {% else %}
-    <meta property="og:image" content="{{ site.url }}/images/fb-image.jpg">
-    {% endif %}
-
-    {% if page.description %}
-    <meta property="og:description" content="{{ page.description }}" />
-    {% else %}
-    <meta property="og:description" content="{{ site.description }}" />
-    {% endif %}
