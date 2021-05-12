@@ -41,7 +41,11 @@
   <meta property="og:image" content="{{ site.url }}/images/fb-image.jpg">
   {% endif %}
 
+  {% if page.description %}
+  <meta property="og:description" content="{{ page.description }}" />
+  {% else %}
   <meta property="og:description" content="{{ site.description }}" />
+  {% endif %}
 
 </head>
 <body>

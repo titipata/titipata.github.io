@@ -1,5 +1,6 @@
 ---
-title: titipat doctoral defense
+title: Using Machine Learning and Natural Language Processing to improve scientific processes
+description: Titipat's doctoral defense, June 8, 2021. 10.30 AM to 12 PM (EST)
 image: blog/defense/defense-banner.png
 ---
 
