@@ -4,9 +4,10 @@ title: titipat doctoral defense
 
 Dear friends and colleages,
 
-I would like to invite you to my doctoral defense on June 8, 2021 10.30 - 11.30 AM (EST).
-The meeting will be on Zoom. You can see the Zoom link and the passcode below.
-I put the password in text just in case of Zoom bombing, just put a sequence of number for access.
+I would like to invite you to my doctoral dissertation defense on June 8, 2021 from 10.30 AM to 12 PM (EST).
+I will summarize what I have been working on during my PhD. The title and abstract is below.
+Due to the COVID situation, the meeting will be on Zoom. You can see the Zoom link and the passcode below.
+I put the password in plain text just in case of Zoom bombing. You can put a sequence of number for an access.
 I also put a link where you can add the event directly to Google Calendar.
 
 Really looking forward to see you all!
