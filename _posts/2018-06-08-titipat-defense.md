@@ -5,9 +5,11 @@ title: titipat doctoral defense
 Dear friends and colleages,
 
 I would like to invite you to my doctoral defense on June 8, 2021 10.30 - 11.30 AM (EST).
-The meeting will be on Zoom. Really looking forward to see you all!
-I put a link to Google calendar where you can add it to yours.
-The passcode is a sequence of numbers. Although I put the text just in case of Zoom bombing.
+The meeting will be on Zoom. You can see the Zoom link and the passcode below.
+I put the password in text just in case of Zoom bombing, just put a sequence of number for access of ask me directly.
+I also put a link where you can add an event directly to your Google Calendar.
+
+Really looking forward to see you all!
 
 Best,<br />
 Titipat
