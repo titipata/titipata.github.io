@@ -1,5 +1,6 @@
 ---
 title: titipat doctoral defense
+image: blog/defense/defense-banner.png
 ---
 
 Dear friends and colleages,
