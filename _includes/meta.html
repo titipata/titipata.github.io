@@ -19,8 +19,10 @@
 
     {% if page.image %}
     <meta property="og:image" content="{{ site.url }}/images/{{ page.image }}">
+    <meta name="twitter:image" content="{{ site.url }}/images/{{ page.image }}">
     {% else %}
     <meta property="og:image" content="{{ site.url }}/images/fb-image.jpg">
+    <meta name="twitter:image" content="{{ site.url }}/ai-builders/images/fb-image.png">
     {% endif %}
 
     {% if page.description %}
@@ -44,7 +46,6 @@
 
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="{{ site.url }}/ai-builders/images/fb-image.png">
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ site.baseurl }}/images/favicon.ico">
