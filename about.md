@@ -35,9 +35,8 @@ contribute to open-source projects including [glm-tools/pyglmnet](https://github
 
 <ul>
   <li><i>2021-present</i> Tenure track lecturer, Biomedical Engineering, Mahidol University, Thailand</li>
-  <li><i>2017-2021</i> Ph.D., Bioengineering, University of Pennsylvania</li>
+  <li><i>2021</i> Ph.D., Bioengineering, University of Pennsylvania</li>
   <li><i>Spring 2017</i> Internship, Allen Institute for Artificial Intelligence</li>
-  <li><i>2017</i> Ph.D., Biomedical Engineering, Northwestern University</li>
   <li><i>2015</i> M.S. in Biomedical Engineering, Northwestern University</li>
   <li><i>2012</i> B.S. in Electrical Engineering, Chulalongkorn University, Thailand</li>
   <li><i>2008</i> Suankularb Wittayalai School, Thailand (oldest public school in Thailand) </li>
