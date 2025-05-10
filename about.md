@@ -10,7 +10,8 @@ permalink: /about/
 My name is Titipat Achakulvisut, a tenure track lectuer at the Department of
 Biomedical Engineering, Mahidol University, Thailand. I run [Biomedical and Data lab](http://badlab.vercel.app/) here.
 I formerly obtained my PhD at the Department of Bioengineering at University of Pennsylvania with [Konrad Kording](http://kordinglab.com/).
-You can find out more info about me in my [CV](http://titipata.github.io/images/pdf/Titipat_CV.pdf) and lab website.
+You can find out more info about me in my [CV](http://titipata.github.io/images/pdf/Titipat_CV.pdf),
+my [GitHub](https://github.com/titipata/), or [my lab website](https://biodatlab.github.io/).
 
 <hr>
 
@@ -33,7 +34,7 @@ contribute to open-source projects including [glm-tools/pyglmnet](https://github
 **Education**
 
 <ul>
-  <li><i>2017-2021</i> Tenure track lecturer, Biomedical Engineering, Mahidol University, Thailand</li>
+  <li><i>2021-present</i> Tenure track lecturer, Biomedical Engineering, Mahidol University, Thailand</li>
   <li><i>2017-2021</i> Ph.D., Bioengineering, University of Pennsylvania</li>
   <li><i>Spring 2017</i> Internship, Allen Institute for Artificial Intelligence</li>
   <li><i>2017</i> Ph.D., Biomedical Engineering, Northwestern University</li>
@@ -43,9 +44,3 @@ contribute to open-source projects including [glm-tools/pyglmnet](https://github
 </ul>
 
 <hr>
-
-**Music**
-
-You can find my Spotify playlist below.
-
-<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A12126213435%3Aplaylist%3A3icwK1ctAWJAIGLjl5QcVl" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
